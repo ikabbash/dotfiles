@@ -11,9 +11,9 @@ This is my first personal setup, you can use the configs and modify them freely.
 
 ## Screenshots
 <img align="center" src="./images/screenshots/screenshot-1.png" alt="Screenshot 1" width=960>
-<br><br>
+<br>
 <img align="center" src="./images/screenshots/screenshot-2.png" alt="Screenshot 2" width=960>
-<br><br>
+<br>
 <img align="center" src="./images/screenshots/screenshot-3.png" alt="Screenshot 3" width=960>
 
 
@@ -106,5 +106,5 @@ yay -S qtile-extras catnap-git
 | `Print`                  | Take screenshot using Flameshot                               |
 
 <img src="./images/keybindings/mod4-shift.png" alt="Super + SHIFT keybindings" width=800>
-<br><br>
+<br>
 <img src="./images/keybindings/mod4.png" alt="Super keybindings" width=800>
